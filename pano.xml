@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node39" apprev="18043" appversion="6.1.11">
+  <panorama id="node38">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" width="2388" leveltilesize="510" height="1510" overlap="1" cylinder="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2388" height="1510" predecode="0"/>
+      <level preload="0" width="1194" height="755" predecode="0"/>
+      <level preload="0" width="597" height="377" predecode="0"/>
+      <level preload="1" width="298" height="188" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="116" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C|CLONE" latitude="" title="VS" nodeid="node38" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="34.95" id="Point01" url="{node17}" target="" tilt="-7.58" description=""/>
+      <hotspot skinid="ht_node" title="" pan="1.9" id="Point02" url="{node18}" target="" tilt="-23.98" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-17.66" id="Point03" url="{node19}" target="" tilt="-17.87" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-40.43" id="Point04" url="{node20}" target="" tilt="-1.79" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-0.9" id="Point05" url="{node21}" target="" tilt="3.15" description=""/>
+      <hotspot skinid="ht_node" title="" pan="11.96" id="Point06" url="{node22}" target="" tilt="-13.1" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-16.82" id="Point07" url="{node23}" target="" tilt="0.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="19.27" id="" url="images/c01.png" target="" tilt="-17.52" description=""/>
+      <hotspot skinid="ht_extra" title="Bird Eye View" pan="-44.08" id="Point03" url="{node42}" target="" tilt="28.64" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-3.02" id="" url="images/c03.png" target="" tilt="17.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="18.89" id="" url="images/c04.png" target="" tilt="0.929998" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-7.38" id="" url="images/c05.png" target="" tilt="-6.82" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-28.49" id="" url="images/c06.png" target="" tilt="-14.62" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-18.91" id="" url="images/c07.png" target="" tilt="6.76" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="3.18" id="" url="images/c09.png" target="" tilt="9.92" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="12.13" id="" url="images/c11.png" target="" tilt="-7.1" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="2.54" id="" url="images/c12.png" target="" tilt="-13.99" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-9.8" id="" url="images/c13.png" target="" tilt="-1.08" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-4.77" id="" url="images/c14.png" target="" tilt="7.67" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="18.17" id="" url="images/c15.png" target="" tilt="-24.27" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-1.12" id="" url="images/c16.png" target="" tilt="-7.92" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-42.04" id="" url="images/d50.png" target="" tilt="-7.14" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-34.45" id="" url="images/d51.png" target="" tilt="-4.27" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-51.42" id="" url="images/d52.png" target="" tilt="-2.68" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" width="2388" leveltilesize="510" height="1510" overlap="1" cylinder="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2388" height="1510" predecode="0"/>
+      <level preload="0" width="1194" height="755" predecode="0"/>
+      <level preload="0" width="597" height="377" predecode="0"/>
+      <level preload="1" width="298" height="188" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="82" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="TOP|TOPISO" latitude="" title="C" nodeid="node42" datetime="3/8/2023 4:16 AM" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-25.49" id="Point01" url="{node17}" target="" tilt="-12.28" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-17.69" id="Point02" url="{node18}" target="" tilt="22.39" description=""/>
+      <hotspot skinid="ht_node" title="" pan="1.08" id="Point03" url="{node19}" target="" tilt="22.39" description=""/>
+      <hotspot skinid="ht_node" title="" pan="29.66" id="Point04" url="{node20}" target="" tilt="15.7" description=""/>
+      <hotspot skinid="ht_node" title="" pan="13.4" id="Point05" url="{node21}" target="" tilt="-10.98" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-7.34" id="Point06" url="{node22}" target="" tilt="4.09" description=""/>
+      <hotspot skinid="ht_node" title="" pan="9.21" id="Point07" url="{node23}" target="" tilt="7.17" description=""/>
+      <hotspot skinid="ht_extra" title="Isometric View" pan="-13.24" id="Point03" url="{node38}" target="" tilt="-33.41" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-23.15" id="" url="images/c01.png" target="" tilt="10.64" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="24.4" id="" url="images/c03.png" target="" tilt="-25.32" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-5.8" id="" url="images/c04.png" target="" tilt="-14.06" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="2.12" id="" url="images/c05.png" target="" tilt="5.46" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="9.55" id="" url="images/c06.png" target="" tilt="26.32" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="24.65" id="" url="images/c07.png" target="" tilt="-4.3" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-22.06" id="" url="images/c08.png" target="" tilt="17.23" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="12.14" id="" url="images/c09.png" target="" tilt="-18.06" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="20.06" id="" url="images/c11.png" target="" tilt="5.96" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-6.88" id="" url="images/c12.png" target="" tilt="-4.46" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="10.8" id="" url="images/c13.png" target="" tilt="2.96" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-10.8" id="" url="images/c14.png" target="" tilt="-3.63" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-28.82" id="" url="images/c15.png" target="" tilt="20.48" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-0.21" id="" url="images/c16.png" target="" tilt="8.38" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="25.65" id="" url="images/d50.png" target="" tilt="23.73" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="21.15" id="" url="images/d51.png" target="" tilt="21.65" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="34.33" id="" url="images/d52.png" target="" tilt="27.82" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-81.3129" projection="4" fov="70" tilt="0.127043"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node17" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-56.48" id="Point01" url="{node20}" target="-82.6/0.0/70.0" tilt="0.72" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-26.61" id="Point02" url="{node21}" target="-94.1/-1.4/70.0" tilt="0.66" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-75.97" id="Point03" url="{node19}" target="-90.6/-1.5/70.0" tilt="0.78" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-104.84" id="Point04" url="{node18}" target="107.5/-0.5/70.0" tilt="0.23" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-63.6" id="Point05" url="{node22}" target="-110.1/-0.9/70.0" tilt="-13.3" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-38.29" id="Point06" url="{node23}" target="161.0/-0.9/70.0" tilt="-2.01" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-296.89" id="Point07" url="{node24}" target="42.9/-0.3/70.0" tilt="-11.83" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-111.5" id="" url="images/c01.png" target="" tilt="-9.71" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-7.78" id="" url="images/c04.png" target="" tilt="-9.73" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-46.54" id="" url="images/c05.png" target="" tilt="-5.74" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-73.65" id="" url="images/c06.png" target="" tilt="-5" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-33.34" id="" url="images/c07.png" target="" tilt="-3.64" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-90.09" id="" url="images/c11.png" target="" tilt="-25.29" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-54.54" id="" url="images/c12.png" target="" tilt="-24.64" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-41.15" id="" url="images/c13.png" target="" tilt="-5.96" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-34.76" id="" url="images/c14.png" target="" tilt="-18.07" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-156.06" id="" url="images/c15.png" target="" tilt="-7.52" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-56.24" id="" url="images/c16.png" target="" tilt="-8.22" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="152.289" projection="4" fov="70" tilt="-1.56408"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node18" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-155.38" id="Point01" url="{node17}" target="-46.5/-0.2/70.0" tilt="-2.93" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-199.11" id="Point02" url="{node22}" target="-36.2/-0.4/70.0" tilt="-14.47" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-220.69" id="Point03" url="{node23}" target="-138.4/-0.5/70.0" tilt="1.26" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-250.24" id="Point05" url="{node20}" target="-82.6/0.0/70.0" tilt="0.02" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-253.18" id="Point06" url="{node19}" target="-82.0/0.3/70.0" tilt="-12.8" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-159.64" id="Point07" url="{node24}" target="46.5/0.2/70.0" tilt="0.96" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-202.44" id="Point08" url="{node25}" target="-121.6/0.1/70.0" tilt="-0.47" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-133.21" id="" url="images/c01.png" target="" tilt="-8.53" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-188.25" id="" url="images/c04.png" target="" tilt="-4.43" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-230.06" id="" url="images/c05.png" target="" tilt="-8.47" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-280.33" id="" url="images/c06.png" target="" tilt="-10.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-233.23" id="" url="images/c07.png" target="" tilt="-3.66" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-112.77" id="" url="images/c08.png" target="" tilt="-29.41" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-184.62" id="" url="images/c10.png" target="" tilt="-5.97" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-178.71" id="" url="images/c11.png" target="" tilt="-29.73" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-208.25" id="" url="images/c12.png" target="" tilt="-22.07" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-181.3" id="" url="images/c14.png" target="" tilt="-12.28" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-98.41" id="" url="images/c15.png" target="" tilt="-9.1" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-219.87" id="" url="images/c16.png" target="" tilt="-10.67" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-262.42" id="" url="images/d51.png" target="" tilt="-5.91" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-271.58" id="" url="images/d52.png" target="" tilt="-1.33" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-11.6789" projection="4" fov="70" tilt="-1.57461"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node19" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-346.38" id="Point01" url="{node17}" target="-21.4/-1.5/70.0" tilt="-1.53" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-54.81" id="Point02" url="{node21}" target="-94.3/-3.3/70.0" tilt="-5.17" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-356.06" id="Point03" url="{node22}" target="15.4/-1.8/70.0" tilt="-16.91" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-32.02" id="Point04" url="{node23}" target="-96.4/-0.7/70.0" tilt="-11.27" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-296.05" id="Point05" url="{node18}" target="-109.8/-0.5/70.0" tilt="-1.71" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-100.26" id="Point06" url="{node20}" target="-87.6/-0.0/70.0" tilt="-0.38" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-354.37" id="Point07" url="{node24}" target="39.4/-0.4/70.0" tilt="1.06" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-30.17" id="Point08" url="{node25}" target="-121.6/0.1/70.0" tilt="-0.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-322.08" id="" url="images/c01.png" target="" tilt="-5.31" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-51.47" id="" url="images/c03.png" target="" tilt="-2.3" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-20.59" id="" url="images/c05.png" target="" tilt="-11.81" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-152.7" id="" url="images/c06.png" target="" tilt="-28.34" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-66.31" id="" url="images/c07.png" target="" tilt="-5.5" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-310.13" id="" url="images/c08.png" target="" tilt="-10.62" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-39.49" id="" url="images/c09.png" target="" tilt="-4.32" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-342.08" id="" url="images/c11.png" target="" tilt="-19.62" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-53.26" id="" url="images/c12.png" target="" tilt="-20.69" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-47.49" id="" url="images/c13.png" target="" tilt="-10.45" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-41.84" id="" url="images/c14.png" target="" tilt="-15.33" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-305.43" id="" url="images/c15.png" target="" tilt="-3.69" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-10.16" id="" url="images/c16.png" target="" tilt="-9.88" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-123.1" id="" url="images/d50.png" target="" tilt="-7.07" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-109.1" id="" url="images/d51.png" target="" tilt="-11.56" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-126.04" id="" url="images/d52.png" target="" tilt="-2.24" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-82.5938" projection="4" fov="70" tilt="-0.0172309"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node20" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-139.88" id="Point01" url="{node21}" target="-93.6/-0.3/70.0" tilt="-3" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-105.9" id="Point02" url="{node23}" target="-26.9/0.0/70.0" tilt="-6.22" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-83.18" id="Point03" url="{node22}" target="77.8/-0.2/70.0" tilt="-0.47" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-102.94" id="Point04" url="{node17}" target="-52.1/-0.3/70.0" tilt="0.3" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-73.04" id="Point05" url="{node18}" target="-168.1/0.1/70.0" tilt="0.2" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-56.44" id="Point06" url="{node19}" target="35.0/0.3/70.0" tilt="-0.46" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-124.51" id="Point07" url="{node25}" target="-121.6/0.1/70.0" tilt="-1.25" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-79.21" id="" url="images/c01.png" target="" tilt="-3.07" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-152.15" id="" url="images/c03.png" target="" tilt="-1.57" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-112.12" id="" url="images/c04.png" target="" tilt="-5.43" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-93.36" id="" url="images/c05.png" target="" tilt="-6.76" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-50.19" id="" url="images/c06.png" target="" tilt="-7.38" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-143" id="" url="images/c07.png" target="" tilt="-8.15" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-131.85" id="" url="images/c09.png" target="" tilt="-4.6" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-87.66" id="" url="images/c10.png" target="" tilt="-4.02" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-116.32" id="" url="images/c11.png" target="" tilt="-23.2" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-126.71" id="" url="images/c12.png" target="" tilt="-14.44" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-115.92" id="" url="images/c13.png" target="" tilt="-9.18" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-103.15" id="" url="images/c14.png" target="" tilt="-11.44" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-92.26" id="" url="images/c16.png" target="" tilt="-1.51" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-23.8" id="" url="images/d50.png" target="" tilt="-25.8" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-59.62" id="" url="images/d51.png" target="" tilt="-19.08" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-342.08" id="" url="images/d52.png" target="" tilt="2.3" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-94.9675" projection="4" fov="70" tilt="-1.14004"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node21" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-250.21" id="Point01" url="{node23}" target="46.0/0.0/70.0" tilt="-9.29" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-291.77" id="Point02" url="{node22}" target="85.5/-0.5/70.0" tilt="-3.32" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-306.09" id="Point03" url="{node17}" target="-59.5/-0.1/70.0" tilt="-3.36" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-268.63" id="Point04" url="{node18}" target="-165.8/-0.3/70.0" tilt="1.58" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-237.29" id="Point05" url="{node19}" target="-32.3/-2.5/70.0" tilt="-1.13" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-187.66" id="Point06" url="{node20}" target="-82.6/0.0/70.0" tilt="0.06" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-333.76" id="Point07" url="{node25}" target="-121.6/0.1/70.0" tilt="-0.25" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-59.82" id="" url="images/c03.png" target="" tilt="-9" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-258.7" id="" url="images/c05.png" target="" tilt="-8.68" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-228.11" id="" url="images/c06.png" target="" tilt="-5.35" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-165.8" id="" url="images/c07.png" target="" tilt="-13.85" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-272.12" id="" url="images/c08.png" target="" tilt="-4.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-353.66" id="" url="images/c09.png" target="" tilt="-15.34" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-51.71" id="" url="images/c10.png" target="" tilt="-3.3" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-1.93" id="" url="images/c10.png" target="" tilt="-28.04" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-114.95" id="" url="images/c11.png" target="" tilt="-19.07" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-100.84" id="" url="images/c12.png" target="" tilt="-26.43" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-231.51" id="" url="images/c13.png" target="" tilt="-23.72" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-250.46" id="" url="images/c14.png" target="" tilt="-22.14" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-286.81" id="" url="images/c15.png" target="" tilt="-2.89" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-264.94" id="" url="images/c16.png" target="" tilt="-2.42" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-208.86" id="" url="images/d51.png" target="" tilt="-6.75" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-195.11" id="" url="images/d52.png" target="" tilt="-1.18" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="174.618" projection="4" fov="70" tilt="-0.68895"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node22" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-204.32" id="Point01" url="{node18}" target="-152.2/-0.5/70.0" tilt="-1.1" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-144.12" id="Point02" url="{node19}" target="-78.0/0.0/70.0" tilt="0.4" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-110.75" id="Point03" url="{node20}" target="-82.6/-0.0/70.0" tilt="1.72" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-68.4" id="Point04" url="{node21}" target="-93.8/-2.0/70.0" tilt="-0.48" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-69.87" id="Point05" url="{node23}" target="-155.6/-1.0/70.0" tilt="-12.32" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-325.96" id="Point06" url="{node17}" target="" tilt="-12.11" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-333.64" id="Point07" url="{node24}" target="58.8/-0.5/70.0" tilt="0.98" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-43.13" id="Point08" url="{node25}" target="-121.6/0.1/70.0" tilt="0.26" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-239.31" id="" url="images/c01.png" target="" tilt="-6.13" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-54.84" id="" url="images/c03.png" target="" tilt="-2.12" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-20.91" id="" url="images/c04.png" target="" tilt="-11.12" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-139.83" id="" url="images/c06.png" target="" tilt="-7.77" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-80.6" id="" url="images/c07.png" target="" tilt="-4.91" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-219.91" id="" url="images/c08.png" target="" tilt="-11.89" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-15.88" id="" url="images/c10.png" target="" tilt="-15.05" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-195.57" id="" url="images/c11.png" target="" tilt="-23.12" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-164.56" id="" url="images/c12.png" target="" tilt="-23.71" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-86.14" id="" url="images/c13.png" target="" tilt="-9.47" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-8.35" id="" url="images/c14.png" target="" tilt="-33.95" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-264.21" id="" url="images/c15.png" target="" tilt="-5.36" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-112.08" id="" url="images/c16.png" target="" tilt="-10.41" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-119.73" id="" url="images/d52.png" target="" tilt="-0.29" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-22.6793" projection="4" fov="70" tilt="-0.276154"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="C" latitude="" title="" nodeid="node23" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-301.87" id="Point01" url="{node19}" target="-28.3/-0.1/70.0" tilt="-2.23" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-231.89" id="Point02" url="{node20}" target="-82.6/-0.0/70.0" tilt="-0.38" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-351.04" id="Point03" url="{node18}" target="-160.2/-0.1/70.0" tilt="0.6" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-39.88" id="Point04" url="{node17}" target="-33.4/0.3/70.0" tilt="0.47" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-160.08" id="Point05" url="{node21}" target="-95.0/-1.1/70.0" tilt="-0.71" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-14.78" id="Point06" url="{node22}" target="84.4/-0.3/70.0" tilt="-12.52" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-94.03" id="Point07" url="{node25}" target="-121.6/0.1/70.0" tilt="-1.54" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-135.02" id="" url="images/c03.png" target="" tilt="-3.89" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-68.9" id="" url="images/c04.png" target="" tilt="-8.48" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-339.27" id="" url="images/c05.png" target="" tilt="-23.95" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-281.91" id="" url="images/c06.png" target="" tilt="-8.27" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-168.78" id="" url="images/c07.png" target="" tilt="-9.56" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-113.75" id="" url="images/c09.png" target="" tilt="-8.31" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-65.75" id="" url="images/c10.png" target="" tilt="-8" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-1.36" id="" url="images/c10.png" target="" tilt="-19.54" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-23.05" id="" url="images/c11.png" target="" tilt="-22.27" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-35.26" id="" url="images/c12.png" target="" tilt="-12.7" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-209.18" id="" url="images/c13.png" target="" tilt="-50.35" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-134.72" id="" url="images/c14.png" target="" tilt="-15.99" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-3.1" id="" url="images/c16.png" target="" tilt="-5.89" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-247.34" id="" url="images/d51.png" target="" tilt="-9.48" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-239.96" id="" url="images/d52.png" target="" tilt="-0.87" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" width="2388" leveltilesize="510" height="1510" overlap="1" cylinder="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2388" height="1510" predecode="0"/>
+      <level preload="0" width="1194" height="755" predecode="0"/>
+      <level preload="0" width="597" height="377" predecode="0"/>
+      <level preload="1" width="298" height="188" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="127" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="CLONE|D|ISO|TOP" latitude="" title="Lakeshore" nodeid="node39" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-12.14" id="Point01" url="{node26}" target="" tilt="12.24" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-27.12" id="Point04" url="{node27}" target="" tilt="-11.72" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-8.42" id="Point05" url="{node28}" target="" tilt="-15.8" description=""/>
+      <hotspot skinid="ht_node" title="" pan="21.12" id="Point06" url="{node29}" target="" tilt="-25.26" description=""/>
+      <hotspot skinid="ht_node" title="" pan="39.87" id="Point07" url="{node30}" target="" tilt="-10.77" description=""/>
+      <hotspot skinid="ht_node" title="" pan="18.76" id="Point08" url="{node32}" target="" tilt="-8.56" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-14.66" id="Point09" url="{node31}" target="" tilt="-0.0399999" description=""/>
+      <hotspot skinid="ht_extra" title="Bird Eye View" pan="11.65" id="Point03" url="{node43}" target="" tilt="29.79" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-33.02" id="" url="images/d03.png" target="" tilt="5.32" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="44.41" id="" url="images/d05.png" target="" tilt="0.810002" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="7.12" id="" url="images/d06.png" target="" tilt="5.52" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="8.76" id="" url="images/d07.png" target="" tilt="-8.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-26.59" id="" url="images/d08.png" target="" tilt="3.27" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="25.36" id="" url="images/d09.png" target="" tilt="-9.72" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="37.31" id="" url="images/d10.png" target="" tilt="2.87" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="28" id="" url="images/d11.png" target="" tilt="2.77" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-3.3" id="" url="images/d13.png" target="" tilt="0.44" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="17.3" id="" url="images/d14.png" target="" tilt="-15.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="1.28" id="" url="images/d15.png" target="" tilt="-11.56" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="8.95" id="" url="images/d50.png" target="" tilt="-26.23" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="12.27" id="" url="images/d51.png" target="" tilt="-20.57" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="14.78" id="" url="images/d52.png" target="" tilt="-29.61" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-15.95" id="" url="images/d02.png" target="" tilt="-10.92" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-7.89" id="" url="images/d01.png" target="" tilt="-1.14" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" width="2388" leveltilesize="510" height="1510" overlap="1" cylinder="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2388" height="1510" predecode="0"/>
+      <level preload="0" width="1194" height="755" predecode="0"/>
+      <level preload="0" width="597" height="377" predecode="0"/>
+      <level preload="1" width="298" height="188" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="81" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="TOP|TOPISO" latitude="" title="D" nodeid="node43" datetime="3/8/2023 4:16 AM" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="27.09" id="Point01" url="{node26}" target="" tilt="-13.58" description=""/>
+      <hotspot skinid="ht_node" title="" pan="17.45" id="Point02" url="{node27}" target="" tilt="21.76" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-0.0700002" id="Point03" url="{node28}" target="" tilt="13.44" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-26.21" id="Point04" url="{node29}" target="" tilt="15.04" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-27.82" id="Point05" url="{node30}" target="" tilt="-9.5" description=""/>
+      <hotspot skinid="ht_node" title="" pan="13.51" id="Point06" url="{node31}" target="" tilt="-0.29" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-11.61" id="Point07" url="{node32}" target="" tilt="-2.77" description=""/>
+      <hotspot skinid="ht_extra" title="Isometric View" pan="15.1" id="Point03" url="{node39}" target="" tilt="-33.62" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="9.11" id="" url="images/d01.png" target="" tilt="1.77" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="3.25" id="" url="images/d02.png" target="" tilt="18.17" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="26.08" id="" url="images/d03.png" target="" tilt="19.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-22.95" id="" url="images/d05.png" target="" tilt="-27.4" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="7.7" id="" url="images/d06.png" target="" tilt="-15.94" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-9.76" id="" url="images/d07.png" target="" tilt="5.07" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="30.53" id="" url="images/d08.png" target="" tilt="3.34" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-19.57" id="" url="images/d09.png" target="" tilt="-4.33" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-14.71" id="" url="images/d10.png" target="" tilt="-26.16" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-10.09" id="" url="images/d11.png" target="" tilt="-18.17" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-3.83" id="" url="images/d13.png" target="" tilt="3.58" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="10.84" id="" url="images/d14.png" target="" tilt="-8.61" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-18.09" id="" url="images/d15.png" target="" tilt="7.95" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-23.2" id="" url="images/d50.png" target="" tilt="21.55" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-18.75" id="" url="images/d51.png" target="" tilt="18.5" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-32.42" id="" url="images/d52.png" target="" tilt="25.92" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-102.633" projection="4" fov="70" tilt="0.0172115"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node26" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-86.79" id="Point01" url="{node27}" target="-59.5/0.4/70.0" tilt="-0.29" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-98.41" id="Point02" url="{node28}" target="-21.5/-0.9/70.0" tilt="-1.12" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-128.51" id="Point03" url="{node29}" target="-68.6/0.6/70.0" tilt="0.22" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-152.24" id="Point04" url="{node30}" target="-88.4/-0.0/70.0" tilt="-0.48" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-142.4" id="Point05" url="{node32}" target="169.7/-0.6/70.0" tilt="-3.69" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-123.41" id="Point06" url="{node31}" target="-52.0/1.8/70.0" tilt="-15.6" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-250.42" id="Point07" url="{node24}" target="-96.0/-0.1/70.0" tilt="1" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-117.66" id="" url="images/d01.png" target="" tilt="-4.59" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-106.02" id="" url="images/d02.png" target="" tilt="-2.95" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-68.94" id="" url="images/d03.png" target="" tilt="-2.75" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-79.87" id="" url="images/d04.png" target="" tilt="-0.55" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-164.48" id="" url="images/d06.png" target="" tilt="-9.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-130.84" id="" url="images/d07.png" target="" tilt="-4.61" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-64.09" id="" url="images/d08.png" target="" tilt="-11.59" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-146.09" id="" url="images/d09.png" target="" tilt="-4.17" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-148.75" id="" url="images/d13.png" target="" tilt="-17.29" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-140.53" id="" url="images/d14.png" target="" tilt="-14.15" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-130.77" id="" url="images/d15.png" target="" tilt="-22.59" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-122.92" id="" url="images/d51.png" target="" tilt="-3.9" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-124.2" id="" url="images/d52.png" target="" tilt="0.05" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-15.8486" projection="4" fov="70" tilt="-1.23119"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node27" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-53.76" id="Point01" url="{node26}" target="-174.9/-0.7/70.0" tilt="-1.27" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-34.08" id="Point02" url="{node31}" target="-166.1/0.4/70.0" tilt="-0.4" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-5.4" id="Point03" url="{node32}" target="106.9/-1.3/70.0" tilt="-9.56" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-353.28" id="Point04" url="{node30}" target="-88.3/1.1/70.0" tilt="0.08" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-314.43" id="Point05" url="{node29}" target="-76.1/0.9/70.0" tilt="0.23" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-340.86" id="Point06" url="{node28}" target="50.1/0.0/70.0" tilt="-24.88" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-65.75" id="Point07" url="{node24}" target="-98.0/-0.4/70.0" tilt="-0.55" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-22.14" id="Point08" url="{node25}" target="65.8/-4.7/70.0" tilt="-0.67" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-105.42" id="" url="images/d11.png" target="" tilt="3.81" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-35.18" id="" url="images/d01.png" target="" tilt="-7.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-338.74" id="" url="images/d02.png" target="" tilt="-2.71" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-108.15" id="" url="images/d03.png" target="" tilt="-3.7" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-93.62" id="" url="images/d04.png" target="" tilt="-0.98" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-8.42" id="" url="images/d05.png" target="" tilt="-2.31" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-351.8" id="" url="images/d07.png" target="" tilt="-6.81" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-85.9" id="" url="images/d08.png" target="" tilt="-9.96" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-15.48" id="" url="images/d11.png" target="" tilt="-3.31" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-40.13" id="" url="images/d13.png" target="" tilt="-24.01" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-56.63" id="" url="images/d14.png" target="" tilt="-22.01" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-53.71" id="" url="images/d15.png" target="" tilt="-10" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-312.79" id="" url="images/d50.png" target="" tilt="-4.74" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-318.41" id="" url="images/d51.png" target="" tilt="-7.32" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-310.17" id="" url="images/d52.png" target="" tilt="-1.09" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-113.932" projection="4" fov="70" tilt="-2.32308"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node28" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-118.26" id="Point01" url="{node26}" target="179.7/1.1/70.0" tilt="-1.33" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-111.12" id="Point02" url="{node31}" target="-167.9/-0.7/70.0" tilt="-18.39" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-57.09" id="Point03" url="{node32}" target="108.9/-0.4/70.0" tilt="-16.28" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-45.79" id="Point04" url="{node30}" target="-87.8/-0.3/70.0" tilt="-0.98" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-354.13" id="Point05" url="{node29}" target="-69.7/0.3/70.0" tilt="-0.13" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-201.66" id="Point06" url="{node27}" target="-72.0/0.1/70.0" tilt="-3.84" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-129.38" id="Point07" url="{node24}" target="-95.0/-1.1/70.0" tilt="-0.24" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-81.72" id="Point08" url="{node25}" target="60.2/-0.6/70.0" tilt="-0.33" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-125.16" id="" url="images/d01.png" target="" tilt="-8.94" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-261.13" id="" url="images/d02.png" target="" tilt="2.32" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-193.27" id="" url="images/d03.png" target="" tilt="-4.47" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-59.18" id="" url="images/d05.png" target="" tilt="-2.76" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-105.26" id="" url="images/d06.png" target="" tilt="-6.12" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-38.29" id="" url="images/d07.png" target="" tilt="-11.08" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-158.43" id="" url="images/d08.png" target="" tilt="-8.15" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-39.62" id="" url="images/d09.png" target="" tilt="-4.15" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-66.52" id="" url="images/d10.png" target="" tilt="-4.59" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-71.81" id="" url="images/d11.png" target="" tilt="-4.26" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-98.96" id="" url="images/d12.png" target="" tilt="-7.1" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-170.59" id="" url="images/d13.png" target="" tilt="-20.17" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-85.07" id="" url="images/d14.png" target="" tilt="-23.67" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-55.77" id="" url="images/d15.png" target="" tilt="-30.19" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-338.16" id="" url="images/d50.png" target="" tilt="-5.3" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-351.66" id="" url="images/d51.png" target="" tilt="-9.86" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-340.27" id="" url="images/d52.png" target="" tilt="-1.15" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-61.6832" projection="4" fov="70" tilt="0.880947"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node29" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-109.51" id="Point01" url="{node27}" target="-76.3/-0.1/70.0" tilt="0.64" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-112.04" id="Point02" url="{node28}" target="-93.5/-4.4/70.0" tilt="-10.04" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-69.76" id="Point03" url="{node26}" target="-165.6/-3.0/70.0" tilt="0.31" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-82.75" id="Point04" url="{node31}" target="139.9/-0.6/70.0" tilt="-7.04" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-51.92" id="Point05" url="{node32}" target="52.7/0.1/70.0" tilt="-11.43" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-10.26" id="Point06" url="{node30}" target="-91.6/-0.8/70.0" tilt="-0.79" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-45.97" id="Point07" url="{node25}" target="70.2/0.5/70.0" tilt="0.08" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-78.66" id="" url="images/d01.png" target="" tilt="-2.7" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-103.97" id="" url="images/d02.png" target="" tilt="0.32" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-91.25" id="" url="images/d03.png" target="" tilt="-1.89" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-18.86" id="" url="images/d05.png" target="" tilt="-4.03" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-60.58" id="" url="images/d07.png" target="" tilt="-5.9" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-88.59" id="" url="images/d08.png" target="" tilt="-4.01" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-29.33" id="" url="images/d09.png" target="" tilt="-5.2" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-38.53" id="" url="images/d11.png" target="" tilt="-3.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-21.87" id="" url="images/d12.png" target="" tilt="-1.36" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-68.68" id="" url="images/d12.png" target="" tilt="-11.83" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-17.29" id="" url="images/d13.png" target="" tilt="-20.31" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-34.44" id="" url="images/d14.png" target="" tilt="-16.73" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-75.48" id="" url="images/d15.png" target="" tilt="-12.06" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-164.65" id="" url="images/d50.png" target="" tilt="-24.14" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-68.21" id="" url="images/d51.png" target="" tilt="-22.78" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-237.47" id="" url="images/d52.png" target="" tilt="-0.46" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-95.372" projection="4" fov="70" tilt="-0.912516"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node30" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-246.1" id="Point01" url="{node29}" target="-61.7/0.9/70.0" tilt="2.25" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-208.61" id="Point02" url="{node28}" target="-89.5/-0.5/70.0" tilt="-0.27" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-189.52" id="Point03" url="{node27}" target="-69.5/0.5/70.0" tilt="0.62" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-187.24" id="Point04" url="{node32}" target="-20.8/-1.2/70.0" tilt="-19.67" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-166.09" id="Point05" url="{node31}" target="60.3/-0.4/70.0" tilt="-9.62" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-151.62" id="Point06" url="{node26}" target="-66.0/-0.5/70.0" tilt="-0.71" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-137.03" id="Point07" url="{node25}" target="70.9/0.5/70.0" tilt="-0.36" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-173.04" id="" url="images/d01.png" target="" tilt="-4.39" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-198.96" id="" url="images/d02.png" target="" tilt="-1.17" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-179.78" id="" url="images/d03.png" target="" tilt="-2" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-64.68" id="" url="images/d05.png" target="" tilt="-9.19" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-205.2" id="" url="images/d07.png" target="" tilt="-5.9" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-167.67" id="" url="images/d08.png" target="" tilt="-4.46" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-212.35" id="" url="images/d09.png" target="" tilt="-16.24" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-89.38" id="" url="images/d10.png" target="" tilt="-11.62" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-125.33" id="" url="images/d11.png" target="" tilt="-8.49" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-55.21" id="" url="images/d12.png" target="" tilt="-4.16" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-119.93" id="" url="images/d13.png" target="" tilt="-24.05" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-104.63" id="" url="images/d14.png" target="" tilt="-27.98" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-138.95" id="" url="images/d15.png" target="" tilt="-30.42" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-244.15" id="" url="images/d50.png" target="" tilt="-4.24" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-233.64" id="" url="images/d51.png" target="" tilt="-7.72" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-254.73" id="" url="images/d52.png" target="" tilt="-1.54" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="17.9879" projection="4" fov="70" tilt="0.0858403"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node31" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-337.64" id="Point01" url="{node27}" target="-67.9/-0.4/70.0" tilt="-1.32" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-7.25" id="Point02" url="{node28}" target="-87.6/-1.3/70.0" tilt="-3.05" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-62" id="Point03" url="{node29}" target="-70.8/1.0/70.0" tilt="0.59" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-105.84" id="Point04" url="{node30}" target="-91.4/-0.5/70.0" tilt="0.59" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-85.37" id="Point05" url="{node32}" target="172.5/0.0/70.0" tilt="-18.18" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-221.2" id="Point06" url="{node26}" target="-122.2/-0.0/70.0" tilt="-15.5" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-215.63" id="Point07" url="{node24}" target="-92.3/0.0/70.0" tilt="1.17" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-132.9" id="Point08" url="{node25}" target="77.0/1.0/70.0" tilt="-0.74" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-35.27" id="" url="images/d01.png" target="" tilt="-20.21" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-17.88" id="" url="images/d02.png" target="" tilt="-2.54" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-286.46" id="" url="images/d03.png" target="" tilt="-3.98" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-328.28" id="" url="images/d04.png" target="" tilt="-0.99" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-120.57" id="" url="images/d05.png" target="" tilt="-3.73" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-163.47" id="" url="images/d06.png" target="" tilt="-11.8" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-78.4" id="" url="images/d07.png" target="" tilt="-6.75" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-276.42" id="" url="images/d08.png" target="" tilt="-13.55" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-92.17" id="" url="images/d09.png" target="" tilt="-5.38" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-153.6" id="" url="images/d12.png" target="" tilt="-13.13" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-346.76" id="" url="images/d13.png" target="" tilt="-28.19" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-329.76" id="" url="images/d14.png" target="" tilt="-25.21" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-210.18" id="" url="images/d15.png" target="" tilt="-27.03" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-50.27" id="" url="images/d51.png" target="" tilt="-6.16" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-52.58" id="" url="images/d52.png" target="" tilt="-0.52" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-20.5855" projection="4" fov="70" tilt="-1.19414"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="D" latitude="" title="" nodeid="node32" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-33.62" id="Point01" url="{node27}" target="-69.8/0.6/70.0" tilt="0.82" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-58.21" id="Point02" url="{node28}" target="-102.1/-1.1/70.0" tilt="-0.92" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-144.34" id="Point03" url="{node29}" target="-72.4/0.8/70.0" tilt="-3.47" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-226.08" id="Point04" url="{node30}" target="-90.8/-1.6/70.0" tilt="0.05" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-13.14" id="Point05" url="{node31}" target="61.5/-0.0/70.0" tilt="-4.36" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-345.62" id="Point06" url="{node26}" target="-152.4/-0.8/70.0" tilt="-4.22" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-334.61" id="Point07" url="{node24}" target="-89.2/-1.1/70.0" tilt="-0.65" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-296.01" id="Point08" url="{node25}" target="71.9/-2.6/70.0" tilt="-1.02" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-5.37" id="" url="images/d01.png" target="" tilt="-6.14" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-47.14" id="" url="images/d02.png" target="" tilt="-3" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-26.25" id="" url="images/d03.png" target="" tilt="-3.18" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-251.89" id="" url="images/d05.png" target="" tilt="-5.76" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-315.9" id="" url="images/d06.png" target="" tilt="-6.81" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-47.34" id="" url="images/d07.png" target="" tilt="-23.4" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-238.53" id="" url="images/d09.png" target="" tilt="-16.12" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-266.88" id="" url="images/d10.png" target="" tilt="-7.86" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-279.68" id="" url="images/d11.png" target="" tilt="-7.16" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-354.08" id="" url="images/d12.png" target="" tilt="-51.33" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-247.36" id="" url="images/d12.png" target="" tilt="-2.13" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-335.06" id="" url="images/d13.png" target="" tilt="-13.4" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-176" id="" url="images/d13.png" target="" tilt="-36.03" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-16.8" id="" url="images/d14.png" target="" tilt="-8.99" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-262.72" id="" url="images/d15.png" target="" tilt="-19.42" description=""/>
+      <hotspot skinid="ht_image" title="Lakeshore" pan="-135.8" id="" url="images/d15.png" target="" tilt="-29.79" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-122.9" id="" url="images/d50.png" target="" tilt="-5.64" description=""/>
+      <hotspot skinid="ht_image" title="Smith Systems" pan="-117.31" id="" url="images/d51.png" target="" tilt="-12.08" description=""/>
+      <hotspot skinid="ht_image" title="Global" pan="-129.22" id="" url="images/d52.png" target="" tilt="-1.37" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-65.063" projection="4" fov="70" tilt="0.135834"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="CD" latitude="" title="" nodeid="node24" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-106.76" id="Point01" url="{node17}" target="-81.3/0.1/70.0" tilt="-1.33" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-303.12" id="Point02" url="{node26}" target="-102.6/0.0/70.0" tilt="-1.9" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" leveltilesize="510" height="2048" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="2048" height="2048" predecode="0"/>
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="0" width="512" height="512" predecode="0"/>
+      <level preload="1" width="256" height="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-121.556" projection="4" fov="70" tilt="0.125459"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="CD|STORAGE" latitude="" title="" nodeid="node25" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+      <hotspot skinid="ht_node" title="" pan="-268.99" id="Point01" url="{node23}" target="74.0/-0.4/70.0" tilt="-0.45" description=""/>
+      <hotspot skinid="ht_node" title="" pan="-130.72" id="Point02" url="{node32}" target="-76.7/-1.4/70.0" tilt="0.98" description=""/>
+      <hotspot skinid="ht_image" title="Home Depot" pan="-95.64" id="" url="images/d53.png" target="" tilt="-0.39" description=""/>
+      <hotspot skinid="ht_image" title="Home Depot" pan="-84.25" id="" url="images/d53.png" target="" tilt="-0.24" description=""/>
+      <hotspot skinid="ht_image" title="Home Depot" pan="-56.09" id="" url="images/d53.png" target="" tilt="1.34" description=""/>
+      <hotspot skinid="ht_image" title="Home Depot" pan="-319.73" id="" url="images/d53.png" target="" tilt="-1.24" description=""/>
+      <hotspot skinid="ht_image" title="VS" pan="-118.01" id="" url="images/d50.png" target="" tilt="-9.52" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="597" leveltilesize="510" height="597" overlap="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="597" height="597" predecode="0"/>
+      <level preload="1" width="298" height="298" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-180" tilt="-63.2796" fovpixel="2"/>
+      <max fovfisheye="360" pan="180" fov="120" tilt="63.2796" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="HELP" latitude="" title="" nodeid="node44" datetime="3/8/2023 4:16 AM" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" flat="1" width="11100" leveltilesize="510" height="5900" overlap="1" cylinder="1" levelbias="0.400" levelingpitch="0">
+      <level preload="0" width="11100" height="5900" predecode="0"/>
+      <level preload="0" width="5550" height="2950" predecode="0"/>
+      <level preload="0" width="2775" height="1475" predecode="0"/>
+      <level preload="0" width="1387" height="737" predecode="0"/>
+      <level preload="0" width="693" height="368" predecode="0"/>
+      <level preload="1" width="346" height="184" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata longitude="" info="" tags="panos|E" latitude="" title="" nodeid="node45" datetime="7/11/2023 6:12 PM" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" border="1" borderradius="1" enabled="0" textcolor="0x000000" width="180" borderalpha="1" background="1" height="20" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" softedge="0" zoomafterinfov="90" zoomout="0" blendtime="0" blendcolor="0x000000" zoomin="0" type="crossdissolve" zoomfov="20" zoomspeed="2" zoomafteroutfov="20"/>
+    <autorotate enabled="1" noderandom="1" nodedelay="0.00" speed="0.010" nodefilter="" returntohorizon="0.000" delay="3.00" useanimation="0" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" speedwheel="2" invertcontrol="1" invertwheel="1" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" rubberband="0" dblclickfullscreen="0" sensitivity="8" simulatemass="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata longitude="" info="" tags="" latitude="" title="" nodeid="master" datetime="" heading="0" comment="" customnodeid="" copyright="" source="" author="" description=""/>
+  </masternode>
+</tour>
